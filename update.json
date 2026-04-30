@@ -1,9 +1,9 @@
 {
-  "version": "1.0.3",
-  "tag": "v1.0.3",
+  "version": "1.0.2",
+  "tag": "v1.0.2",
   "asset_name": "microsoft365.zip",
   "asset_name_full": "microsoft365.zip",
   "asset_name_lite": "microsoft365-lite.zip",
   "download_url": "",
-  "notes": "Access Console speed/CPU fix and updater asset fix."
+  "notes": "Access Console fast login throughput and CPU fix."
 }
