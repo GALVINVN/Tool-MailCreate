@@ -1,7 +1,9 @@
 {
-  "version": "1.0.2",
-  "tag": "v1.0.2",
-  "asset_name": "MailCreate.zip",
+  "version": "1.0.3",
+  "tag": "v1.0.3",
+  "asset_name": "microsoft365.zip",
+  "asset_name_full": "microsoft365.zip",
+  "asset_name_lite": "microsoft365-lite.zip",
   "download_url": "",
-  "notes": "Initial GitHub auto-update release."
+  "notes": "Access Console speed/CPU fix and updater asset fix."
 }
