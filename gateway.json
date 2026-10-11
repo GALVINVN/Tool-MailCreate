@@ -1,6 +1,24 @@
 {
-  "ver": 2,
-  "fam": ["snaplaneai.com", "fam.metamaxclone.com", "fam.galvin.icu", "fam.ms365.de5.net", "fam.galvin.indevs.in", "fam.quocche.eu.cc"],
-  "codex": ["codex.snaplaneai.com", "codex.metamaxclone.com", "codex.galvin.icu", "codex.ms365.de5.net", "codex.galvin.indevs.in", "codex.quocche.eu.cc"],
-  "ghi_chu": "Anchor chong-chet-domain: danh sach host SONG. Doi/them/bo domain -> chi sua file nay (ver tang dan), app+proxy tu nhan, KHONG cai lai may nao."
+  "ver": 3,
+  "fam": [
+    "snaplaneai.com",
+    "fam.metamaxclone.com",
+    "fam.galvin.icu",
+    "fam.ms365.de5.net",
+    "fam.galvin.indevs.in",
+    "fam.quocche.eu.cc"
+  ],
+  "codex": [
+    "codex.snaplaneai.com",
+    "codex.metamaxclone.com",
+    "codex.galvin.icu",
+    "codex.ms365.de5.net",
+    "codex.galvin.indevs.in",
+    "codex.quocche.eu.cc"
+  ],
+  "ghi_chu": "Anchor chong-chet-domain: danh sach host SONG. Doi/them/bo domain -> chi sua file nay (ver tang dan), app+proxy tu nhan, KHONG cai lai may nao.",
+  "signed": {
+    "payload": "eyJjb2RleCI6WyJjb2RleC5zbmFwbGFuZWFpLmNvbSIsImNvZGV4Lm1ldGFtYXhjbG9uZS5jb20iLCJjb2RleC5nYWx2aW4uaWN1IiwiY29kZXgubXMzNjUuZGU1Lm5ldCIsImNvZGV4LmdhbHZpbi5pbmRldnMuaW4iLCJjb2RleC5xdW9jY2hlLmV1LmNjIl0sImZhbSI6WyJzbmFwbGFuZWFpLmNvbSIsImZhbS5tZXRhbWF4Y2xvbmUuY29tIiwiZmFtLmdhbHZpbi5pY3UiLCJmYW0ubXMzNjUuZGU1Lm5ldCIsImZhbS5nYWx2aW4uaW5kZXZzLmluIiwiZmFtLnF1b2NjaGUuZXUuY2MiXSwidmVyIjozfQ==",
+    "sig": "vEq9Dw6v1Eq3euaQ9oHp7YedCz4ULNBMb/BNRREcEyFrQ2xezvgyGib+PEbIVPqxdFUfoFMyq+qFNp36EKyXDA=="
+  }
 }
