@@ -1,6 +1,6 @@
 {
-  "ver": 1,
+  "ver": 2,
   "fam": ["snaplaneai.com", "fam.metamaxclone.com", "fam.galvin.icu", "fam.ms365.de5.net", "fam.galvin.indevs.in", "fam.quocche.eu.cc"],
-  "codex": ["codex.metamaxclone.com", "codex.snaplaneai.com", "codex.galvin.icu", "codex.ms365.de5.net", "codex.galvin.indevs.in", "codex.quocche.eu.cc"],
+  "codex": ["codex.snaplaneai.com", "codex.metamaxclone.com", "codex.galvin.icu", "codex.ms365.de5.net", "codex.galvin.indevs.in", "codex.quocche.eu.cc"],
   "ghi_chu": "Anchor chong-chet-domain: danh sach host SONG. Doi/them/bo domain -> chi sua file nay (ver tang dan), app+proxy tu nhan, KHONG cai lai may nao."
 }
